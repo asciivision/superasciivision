@@ -3,7 +3,7 @@
 <img width="1436" height="870" alt="Screenshot 2026-03-29 at 10 44 47 PM" src="https://github.com/user-attachments/assets/4a5a060e-37d9-42b7-bff2-fab8ec113c00" />
 
 
-X Community : https://x.com/i/communities/2037938743798378894
+X : https://x.com/ascii_vision?s=21
 
 A cross-platform desktop app combining an **AI-powered GUI shell** (chat with xAI and Ollama, image/video generation, voice, IDE, terminal tiles, music player, mobile bridge) with **ASCIIVision** (a full terminal experience — multi-AI chat, ASCII video, webcam, 3D effects, games, system monitoring).
 
@@ -143,7 +143,7 @@ The agent can save facts across conversations using `memory_save` and `memory_re
 ### macOS
 
 ```bash
-git clone https://github.com/lalomorales22/Super-Asciivision.git
+git clone https://github.com/asciivision/superasciivision.git
 cd Super-Asciivision
 ./install.sh
 ```
@@ -154,7 +154,7 @@ The script checks for prerequisites (Xcode CLI Tools, Homebrew, Node.js 20+, Rus
 ### Linux (Ubuntu/Debian, Fedora, Arch, openSUSE)
 
 ```bash
-git clone https://github.com/lalomorales22/Super-Asciivision.git
+git clone https://github.com/asciivision/superasciivision.git
 cd Super-Asciivision
 ./install-linux.sh
 ```
