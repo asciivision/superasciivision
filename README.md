@@ -144,7 +144,7 @@ The agent can save facts across conversations using `memory_save` and `memory_re
 
 ```bash
 git clone https://github.com/asciivision/superasciivision.git
-cd Super-Asciivision
+cd superasciivision
 ./install.sh
 ```
 
@@ -155,7 +155,7 @@ The script checks for prerequisites (Xcode CLI Tools, Homebrew, Node.js 20+, Rus
 
 ```bash
 git clone https://github.com/asciivision/superasciivision.git
-cd Super-Asciivision
+cd superasciivision
 ./install-linux.sh
 ```
 
@@ -214,7 +214,7 @@ To completely remove Super ASCIIVision and all of its data:
 
 Works on both macOS and Linux. The script removes everything:
 
-- **App binary** — `/Applications/Super ASCIIVision.app` (macOS) or `~/.local/bin/super-asciivision` (Linux)
+- **App binary** — `/Applications/Super ASCIIVision.app` (macOS) or `~/.local/bin/superasciivision` (Linux)
 - **App data** — database, settings, workspaces, secrets
 - **ASCIIVision data** — terminal chat history (`~/.config/asciivision/`)
 - **Keychain / secret store** — stored API keys (macOS Keychain / Linux Secret Service)
